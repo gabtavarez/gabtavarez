@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor iniciante e estudante de Engenharia de Software, apaixonado por tecnologia e inovação.
+Bem-vindo ao meu perfil! Operador de CAD/CAM em um laboratório de prótese dentária, hoje sou desenvolvedor e estudante de Engenharia de Software, sempre muito apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre mim
 
@@ -11,6 +11,15 @@ Atualmente trabalhando com desenvolvimento de software backend e sempre em busca
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 - Java
+- Springboot
+- AWS Cloud
+- APIs RESTful
+- Bancos de dados (SQL e NoSQL)
+- Git e controle de versão
+- Oauth & JWT
+
+- ExoCad
+- Sirona
   
 ## 📊 Estatísticas
 
@@ -18,7 +27,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 🌱 Atualmente aprendendo
 
-Sempre explorando novas tecnologias e aprimorando minhas habilidades.
+Sempre explorando novas tecnologias, conquistando certificações e aprimorando minhas habilidades.
 
 ## 📫 Como me encontrar
 

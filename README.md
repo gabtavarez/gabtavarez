@@ -17,9 +17,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 - Bancos de dados (SQL e NoSQL)
 - Git e controle de versão
 - Oauth & JWT
-
-- ExoCad
-- Sirona
+- Exocad, Ceramill (Amann Girrbach), Dentsply Sirona, XTCERA 
   
 ## 📊 Estatísticas
 

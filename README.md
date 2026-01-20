@@ -1,10 +1,10 @@
 # Olá! 👋
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e inovação.
+Bem-vindo ao meu perfil! Sou um desenvolvedor iniciante e estudante de Engenharia de Software, apaixonado por tecnologia e inovação.
 
 ## 🚀 Sobre mim
 
-Atualmente trabalhando com desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
+Atualmente trabalhando com desenvolvimento de software backend e sempre em busca de novos desafios e aprendizados.
 
 ## 💻 Tecnologias
 
@@ -16,7 +16,7 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabtavarez&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌱 Atualmente aprendendo
 

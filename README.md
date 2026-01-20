@@ -23,5 +23,5 @@ Sempre explorando novas tecnologias e aprimorando minhas habilidades.
 ## 📫 Como me encontrar
 
 - GitHub: [gabtavarez](https://github.com/gabtavarez)
-- LinkedIn: [Gabriel Tavares]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabtavarez/))
-- Email: gabrieltavarescs03@gmail.com
+- LinkedIn: [Gabriel Tavares](https://www.linkedin.com/in/gabtavarez/)
+- Email: [gabrieltavarescs03@gmail.com](gabrieltavarescs03@gmail.com)
